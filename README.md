@@ -1,2 +1,2 @@
-# SampleLibrary
+# ScreenShotLibrary
 Sample description
